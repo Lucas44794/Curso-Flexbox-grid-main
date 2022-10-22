@@ -298,6 +298,7 @@ body {
 .cartao__botao--localizacao::before {
     content: "\e908";
     font-size: 16px;
+    cursor: pointer;
 }
 
 .cartao--recentes {
@@ -309,6 +310,7 @@ body {
 }
 .cartao__imagem--mobile {
     display: block;
+    height: 623px;
 }
 .cartao__botao--destaque {
     grid-column: auto;
