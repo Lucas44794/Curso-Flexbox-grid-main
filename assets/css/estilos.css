@@ -352,6 +352,7 @@ body {
     .cartao__item {
         display: grid;
         grid-template-columns: auto 1fr;
+        padding-bottom: 15px;
         gap: 8px;
     }
 
