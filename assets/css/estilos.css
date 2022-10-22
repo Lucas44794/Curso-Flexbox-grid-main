@@ -295,6 +295,10 @@ body {
 .cartao__botao--destaque::before {
     margin-right: 8px;
 }
+.cartao__botao--localizacao::before {
+    content: "\e908";
+    font-size: 16px;
+}
 
 .cartao--recentes {
     display: none;
